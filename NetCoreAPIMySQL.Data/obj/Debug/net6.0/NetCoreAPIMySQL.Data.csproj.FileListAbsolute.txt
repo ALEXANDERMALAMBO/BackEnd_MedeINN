@@ -1,0 +1,15 @@
+C:\Users\yeiss\Desktop\MedeINN\NetCoreAPIMySQL.Data\bin\Debug\net6.0\NetCoreAPIMySQL.Data.deps.json
+C:\Users\yeiss\Desktop\MedeINN\NetCoreAPIMySQL.Data\bin\Debug\net6.0\NetCoreAPIMySQL.Data.dll
+C:\Users\yeiss\Desktop\MedeINN\NetCoreAPIMySQL.Data\bin\Debug\net6.0\NetCoreAPIMySQL.Data.pdb
+C:\Users\yeiss\Desktop\MedeINN\NetCoreAPIMySQL.Data\bin\Debug\net6.0\NetCoreAPIMySQL.Model.dll
+C:\Users\yeiss\Desktop\MedeINN\NetCoreAPIMySQL.Data\bin\Debug\net6.0\NetCoreAPIMySQL.Model.pdb
+C:\Users\yeiss\Desktop\MedeINN\NetCoreAPIMySQL.Data\obj\Debug\net6.0\NetCoreAPIMySQL.Data.csproj.AssemblyReference.cache
+C:\Users\yeiss\Desktop\MedeINN\NetCoreAPIMySQL.Data\obj\Debug\net6.0\NetCoreAPIMySQL.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yeiss\Desktop\MedeINN\NetCoreAPIMySQL.Data\obj\Debug\net6.0\NetCoreAPIMySQL.Data.AssemblyInfoInputs.cache
+C:\Users\yeiss\Desktop\MedeINN\NetCoreAPIMySQL.Data\obj\Debug\net6.0\NetCoreAPIMySQL.Data.AssemblyInfo.cs
+C:\Users\yeiss\Desktop\MedeINN\NetCoreAPIMySQL.Data\obj\Debug\net6.0\NetCoreAPIMySQL.Data.csproj.CoreCompileInputs.cache
+C:\Users\yeiss\Desktop\MedeINN\NetCoreAPIMySQL.Data\obj\Debug\net6.0\NetCoreAPIMySQL.Data.csproj.CopyComplete
+C:\Users\yeiss\Desktop\MedeINN\NetCoreAPIMySQL.Data\obj\Debug\net6.0\NetCoreAPIMySQL.Data.dll
+C:\Users\yeiss\Desktop\MedeINN\NetCoreAPIMySQL.Data\obj\Debug\net6.0\refint\NetCoreAPIMySQL.Data.dll
+C:\Users\yeiss\Desktop\MedeINN\NetCoreAPIMySQL.Data\obj\Debug\net6.0\NetCoreAPIMySQL.Data.pdb
+C:\Users\yeiss\Desktop\MedeINN\NetCoreAPIMySQL.Data\obj\Debug\net6.0\ref\NetCoreAPIMySQL.Data.dll
