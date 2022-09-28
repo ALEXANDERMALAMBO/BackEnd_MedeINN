@@ -13,11 +13,10 @@ builder.Services.AddRazorPages();
 var mySQLConnectionConfig = new MySQLConfiguration(builder.Configuration.GetConnectionString("MySQLConnection"));
 builder.Services.AddSingleton(mySQLConnectionConfig);
 builder.Services.AddScoped<IsensorRepo, SensorRepo>();
+builder.Services.AddScoped<ILoginRepo, LoginRepo>();
 
-builder.Services.AddCors(c =>
-{
-    c.AddPolicy("AllowOrigin", options => options.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader());
-});
+builder.Services.AddCors(options => options.AddPolicy("AllowWebApp", builder
+            => builder.AllowAnyOrigin().AllowAnyHeader().AllowAnyMethod()));
 
 var app = builder.Build();
 
@@ -28,7 +27,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
-app.UseCors(options => options.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader());
+app.UseCors("AllowWebApp");
 
 app.UseHttpsRedirection();
 
